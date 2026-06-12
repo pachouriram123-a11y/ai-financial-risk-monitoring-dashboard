@@ -103,28 +103,28 @@ The dashboard utilizes financial transaction monitoring data including:
 ### Executive Command Center
 Real-time overview with total transactions, total amount, risk counts, fraud status donut chart, location-wise transaction amounts, and merchant category risk breakdown.
 
-<img src="screenshots/executive-command-center.jpeg" width="900">
+<img src="executive-command-center.jpeg.jpeg" width="900">
 
 ---
 
 ### Fraud Deep Dive — Who Are The Suspects?
 Detailed transaction table with customer names, amounts, locations, fraud status, and merchant categories, alongside a customer-wise amount breakdown by fraud status.
 
-<img src="screenshots/fraud-deep-dive.jpeg" width="900">
+<img src="fraud-deep-dive.jpeg.jpeg" width="900">
 
 ---
 
 ### Rule Engine & Automation
 AI-driven rule engine showing average risk score by fraud status, total transactions by triggered rules (e.g., High Value, Velocity Breach, Off Hours, Round Amount, UPI Abuse), and risk score vs. transaction amount scatter plot.
 
-<img src="screenshots/rule-engine-automation.jpeg" width="900">
+<img src="rule-engine-automation.jpeg.jpeg" width="900">
 
 ---
 
 ### Live Automation Proof — n8n Integration
 Live automation monitor showing average risk score, Gmail alerts triggered, total transactions, and a detailed transaction log with fraud status and triggered rules — powered by n8n workflows.
 
-<img src="screenshots/live-automation-proof.jpeg" width="900">
+<img src="live-automation-proof.jpeg.jpeg" width="900">
 
 ---
 
@@ -175,12 +175,11 @@ LinkedIn: [www.linkedin.com/in/rohitpachori](https://www.linkedin.com/in/rohitpa
 
 ---
 
-## 📁 Recommended Screenshot Folder Structure
+## 📁 Screenshot Files (root of repo)
 
 ```
-screenshots/
-├── executive-command-center.jpeg
-├── fraud-deep-dive.jpeg
-├── rule-engine-automation.jpeg
-└── live-automation-proof.jpeg
+executive-command-center.jpeg.jpeg
+fraud-deep-dive.jpeg.jpeg
+rule-engine-automation.jpeg.jpeg
+live-automation-proof.jpeg.jpeg
 ```
